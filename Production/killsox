@@ -1,0 +1,6 @@
+for i in `ps aux | grep sox | awk '{print $2}'`;
+do
+{
+sudo kill $i
+}
+done
