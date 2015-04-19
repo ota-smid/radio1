@@ -1,0 +1,2 @@
+sudo /home/pi/pifm/pifm /home/pi/pifm/sound.wav 98.0 &
+
